@@ -20,4 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Tiktaktoe"
-include ':app'
+include(":app")
