@@ -1,6 +1,0 @@
-<resources>
-    <style name="TicTacToeButton">
-        <item name="android:textSize">18sp</item>
-        <item name="android:gravity">center</item>
-    </style>
-</resources>
